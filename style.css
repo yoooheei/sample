@@ -1,0 +1,85 @@
+li{
+    list-style: none;
+}
+
+.header{
+    background-color: firebrick;
+    height: 90px;
+}
+
+.header-logo{
+    float: left;
+    font-size: 40px;
+    padding: 18px;
+}
+
+.header-list li{
+    float: left;
+    font-size: 20px;
+    padding: 30px 20px;
+}
+
+.main{
+    height: 500px;
+}
+
+.copy-container h1{
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.copy-container span{
+    color: deeppink;
+}
+
+.copy-container h2{
+    font-size: 20px;
+    padding-left: 15px;
+}
+
+.section01{
+    border-bottom: 5px solid red;
+}
+
+.contents-item{
+    float: left;
+    margin-right: 30px;
+}
+
+.contents-item img{
+    width: 200px;
+    height: 200px;
+}
+
+.contents-item p{
+    font-size: 15px;
+    padding-left: 70px;
+}
+
+ 
+.ouen-msg{
+    background-color: slategray;
+    color: springgreen;
+    position:relative;
+    left:45px;
+}
+
+.footer{
+    background-color: gray;
+    height: 100px;
+}
+
+.footer-logo{
+    float: left;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.footer-list{
+    float: right;
+    font-size: 12px;
+}
+
+.footer-list li{
+    padding: 0px 10px;
+}
